@@ -1,3 +1,7 @@
+# 忽略
+cocos2d/
+proj.win32/
+
 # Prerequisites
 *.d
 
